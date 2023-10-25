@@ -11,7 +11,7 @@ p{
     color:aliceblue;
 }
 body{
-background-image: url("/week-1-task-Lucious-LT/images/black.webp");
+background-image: url("./week-1-task-Lucious-LT/images/black.webp");
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
@@ -26,7 +26,7 @@ background-image: url("/week-1-task-Lucious-LT/images/black.webp");
     
 }
  /* .image1 {
-    background-image: url("/week-1-task-Lucious-LT/images/panter1.jpg");
+    background-image: url("./week-1-task-Lucious-LT/images/panter1.jpg");
 
 background-repeat: no-repeat;
     background-size: cover;
@@ -39,7 +39,7 @@ background-repeat: no-repeat;
 }  */
 
  .image { 
-     /* background-image: url("/week-1-task-Lucious-LT/images/black.webp"); */
+     /* background-image: url("./week-1-task-Lucious-LT/images/black.webp"); */
      
      background-repeat: no-repeat;
      background-size: cover;
